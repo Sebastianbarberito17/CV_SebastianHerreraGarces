@@ -1,29 +1,30 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Sebastian Herrera Garces
+**Profesión:** Analisis y desarollador de software
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:**(sebastianherreragarces6@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
+### SENA (2025-actualidad)
+-- lenguajes de programacion como por ejemplo (python, js, typescript, javascript)
+### barbero (1 mes, 2025)
+### Mesero,(2 mes, 2024)
+### ayudante de concina (2020-2025)
 ### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### SENA en educacion
+### El Destino (2024)
+- ballicher
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **uestro un efoque centrado en la comunicacion con el cliente y comprencion con el cliente y comprencion profunda de sus necesidades**
+- **promuevo nuevas tecnicas en trabajo de equipo para evaular y beneficiar al proyecto**
+- **soy flexible ante cambios de requisitos buscando reutilizar avances y actuar con profecionalismo**
 
 ---
 
